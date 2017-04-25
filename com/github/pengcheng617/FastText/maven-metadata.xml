@@ -3,10 +3,10 @@
   <groupId>com.github.pengcheng617</groupId>
   <artifactId>FastText</artifactId>
   <versioning>
-    <release>0.2</release>
+    <release>0.3</release>
     <versions>
-      <version>0.2</version>
+      <version>0.3</version>
     </versions>
-    <lastUpdated>20170424051808</lastUpdated>
+    <lastUpdated>20170425065322</lastUpdated>
   </versioning>
 </metadata>
