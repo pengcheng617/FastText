@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.pengcheng617</groupId>
-    <artifactId>FastText</artifactId>
+    <artifactId>jfasttext</artifactId>
     <version>0.3</version>
     <name>Java interface for fastText</name>
     <description>
